@@ -1,16 +1,35 @@
 ### Hi there 👋
 
-<!--
-**deepak404found/deepak404found** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Deepak Yadu, Just another tech Enthusiast. Happy to collab with people, feel free to reachout to me.
 
-Here are some ideas to get you started:
+- 💬 Ask me about anything
+- 📫 Reach me on [linkedin](https://www.linkedin.com/in/deepak-yadu-404/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Languages
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+
+### Technologies
+
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+
+## Some stats, just to showoff
+<a href="https://github.com/deepak404found/deepak404found">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=deepak404found&theme=radical&show_icons=true" alt="Deepak's GitHub Stats" />
+</a>
+
+## Languanges I use commonly
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepak404found&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
