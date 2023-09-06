@@ -5,6 +5,8 @@ My name is Deepak Yadu, Just another tech Enthusiast. Happy to collab with peopl
 - 💬 Ask me about anything
 - 📫 Reach me on [linkedin](https://www.linkedin.com/in/deepak-yadu-404/)
 
+### Trophies
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepak404found&theme=dracula&rank=-C,-B" alt="dk404" /></a> </p>
 
 ### Languages
 
