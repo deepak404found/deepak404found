@@ -84,6 +84,4 @@ My name is Deepak Yadu, Just another tech Enthusiast. Happy to collab with peopl
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepak404found&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-  ![Snake animation](https://github.com/deepak404found/deepak404found/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/{{deepak404found}}/{{deepak404found}}/blob/output/github-contribution-grid-snake.svg)
