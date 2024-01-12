@@ -8,8 +8,7 @@ My name is Deepak Yadu, Just another tech Enthusiast. Happy to collab with peopl
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak404found&label=Profile%20views&color=0e75b6&style=flat" alt="deepak404found" /> </p>
 
 ### Trophies
-<p align="left"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepak404found&theme=dracula&rank=-C,-B" alt="dk404" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amansinghtech&theme=dracula&rank=-C,-B" alt="amansinghtech" /></a> </p>
 
 ### Languages
 
