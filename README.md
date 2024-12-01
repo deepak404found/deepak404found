@@ -74,16 +74,15 @@ My name is Deepak Yadu, Just another tech Enthusiast. Happy to collab with peopl
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
-<!-- 
 ## Some stats, just to showoff
 
 <a href="https://github.com/deepak404found/deepak404found">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=deepak404found&theme=radical&show_icons=true" alt="Deepak's GitHub Stats" />
-</a> -->
+</a> 
 
 ## Languanges I use commonly
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepak404found&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepak404found&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
  
 ## Streak
