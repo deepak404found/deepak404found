@@ -77,7 +77,7 @@ My name is Deepak Yadu, Just another tech Enthusiast. Happy to collab with peopl
 ## Some stats, just to showoff
 
 <a href="https://github.com/deepak404found/deepak404found">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=deepak404found&theme=radical&show_icons=true" alt="Deepak's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=deepak404found&theme=radical&rank_icon=github&include_all_commits=true&show_icons=true" alt="Deepak's GitHub Stats" />
 </a> 
 
 ## Languanges I use commonly
