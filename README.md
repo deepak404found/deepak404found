@@ -88,6 +88,6 @@ My name is Deepak Yadu, Just another tech Enthusiast. Happy to collab with peopl
 ## Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=deepak404found&theme=radical)](https://git.io/streak-stats)
 
-<!--
-![snake gif](https://github.com/deepak404found/deepak404found/blob/output/github-contribution-grid-snake.svg)
--->
+
+![snake gif](https://github.com/deepak404found/deepak404found/blob/output/ocean.gif)
+
