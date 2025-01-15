@@ -86,7 +86,7 @@ My name is Deepak Yadu, Just another tech Enthusiast. Happy to collab with peopl
 
  
 ## Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=deepak404found&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deepak404found&theme=radical)](https://git.io/streak-stats)
 
 ## Small snake game with Commits, just to showoff
 
