@@ -58,7 +58,7 @@ I'm **Deepak Yadu**, a Full-Stack Developer, IoT Engineer, and Tech Enthusiast w
 
  
 ## Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deepak404found&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=deepak404found&theme=radical&mode=weekly)](https://git.io/streak-stats)
 
 ## Small snake game with Commits, just to showoff
 
